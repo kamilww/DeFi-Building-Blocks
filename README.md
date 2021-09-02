@@ -33,6 +33,13 @@
   * [Lottery](https://github.com/kamilww/DeFi-Building-Blocks/tree/main/Project03)
    
 ---
+alternate demo
+
+
+https://user-images.githubusercontent.com/77669838/131926594-3dfd55c1-e1f6-475d-ad59-c24d1145dced.mov
+
+
+---
 
 ### Contributors/Builders
 * Kamil Wojnowski [Kamilww](https://github.com/kamilww)
